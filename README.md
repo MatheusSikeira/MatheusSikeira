@@ -28,7 +28,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Csharp" <img src="https://img.shields.io/badge/C%23-6272a4?style=for-the-badge&logo=c-sharp&logoColor=ff79c6" />
+<img align="center" alt="Csharp" <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=ff79c6" />
 </div>
 
 <div style="display: inline_block"><br>
