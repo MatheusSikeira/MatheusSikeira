@@ -22,7 +22,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Csharp" <img src="https://img.shields.io/badge/C%23-282a36?style=for-the-badge&logo=c-sharp&logoColor=ff79c6" />
+<img align="center" alt="Csharp" <img src="https://img.shields.io/badge/C%23-6272a4?style=for-the-badge&logo=c-sharp&logoColor=ff79c6" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -44,4 +44,8 @@
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Django" <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
-</div>
+</div><br>
+
+### Sobre mim
+Sempre gostei de tecnologia, gosto de me aprofundar, pesquisando e lendo sobre o tema que me interesso.
+Os temas que mais me fascinarão na area da programação foram o desevolvimento de jogos, criação de API's, desevolvimento de softwares e a engenharia de software.O que acredito que nos faz evoluir na area é o trabalho em equipe e resolução de erros. Assim podemos compartilhar conhecimento com outras pessoas e enxergar o que erramos em nossa trajetória.
