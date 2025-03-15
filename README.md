@@ -54,4 +54,4 @@
 
 ### Sobre mim
 Sempre gostei de tecnologia, gosto de me aprofundar, pesquisando e lendo sobre o tema que me interesso.
-Os temas que mais me fascinarão na area da programação foram o desevolvimento de jogos, criação de API's, desevolvimento de softwares e a engenharia de software.O que acredito que nos faz evoluir na area é o trabalho em equipe e resolução de erros. Assim podemos compartilhar conhecimento com outras pessoas e enxergar o que erramos em nossa trajetória.
+Os temas que mais me fascinarão na area da programação foram o desevolvimento de jogos, criação de API's, desevolvimento de softwares e a engenharia de software. Acredito que o trabalho em equipe e resolução de erros nos fazem evoluir consideravelmente na area, assim podemos compartilhar conhecimento com outras pessoas e enxergar o que erramos em nossa trajetória.
