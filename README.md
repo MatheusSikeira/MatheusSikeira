@@ -6,6 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sikeiralves?igsh=MWQ1eDZ1cTlhdmh6eg==)
 
 [![Siqueira GitHub](https://github-readme-stats.vercel.app/api?username=MatheusSikeira&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSikeira&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que utilizo e estudo
 
