@@ -58,4 +58,5 @@ API's Rest com Nodej;<br>
 Softwares Windows Forms com C#;<br>
 Aplicativos mobile com React-Native;<br>
 Aplicações Web com React;<br>
-Bancos de dados SQL e noSql.<br> Acredito que o trabalho em equipe e resolução de erros nos fazem evoluir consideravelmente na area, assim podemos compartilhar conhecimento com outras pessoas e enxergar o que erramos em nossa trajetória.
+Bancos de dados SQL e noSql.<br>
+Acredito que o trabalho em equipe e resolução de erros nos fazem evoluir consideravelmente na area, assim podemos compartilhar conhecimento com outras pessoas e enxergar o que erramos em nossa trajetória.
