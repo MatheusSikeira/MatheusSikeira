@@ -54,7 +54,7 @@
 
 ### Sobre mim
 __Desenvolvi__:<br>
-API's Rest com Nodej;<br>
+API's Rest com Nodejs;<br>
 Softwares Windows Forms com C#;<br>
 Aplicativos mobile com React-Native;<br>
 Aplicações Web com React;<br>
