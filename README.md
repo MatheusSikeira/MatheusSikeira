@@ -53,7 +53,7 @@
 </div><br>
 
 ### Sobre mim
-Desenvolvi:<br>
+__Desenvolvi__:<br>
 API's Rest com Nodej;<br>
 Softwares Windows Forms com C#;<br>
 Aplicativos mobile com React-Native;<br>
