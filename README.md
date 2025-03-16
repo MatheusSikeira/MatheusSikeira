@@ -53,5 +53,4 @@
 </div><br>
 
 ### Sobre mim
-Sempre gostei de tecnologia, gosto de me aprofundar, pesquisando e lendo sobre o tema que me interesso.
-Os temas que mais me fascinarão na area da programação foram o desevolvimento de jogos, criação de API's, desevolvimento de softwares e a engenharia de software. Acredito que o trabalho em equipe e resolução de erros nos fazem evoluir consideravelmente na area, assim podemos compartilhar conhecimento com outras pessoas e enxergar o que erramos em nossa trajetória.
+Desenvolvi API's Rest com Nodejs, Softwares Windows Form com C#, aplicativos mobile com React-Native, aplicações Web com React e bancos de dados SQL e noSql. <br> Acredito que o trabalho em equipe e resolução de erros nos fazem evoluir consideravelmente na area, assim podemos compartilhar conhecimento com outras pessoas e enxergar o que erramos em nossa trajetória.
