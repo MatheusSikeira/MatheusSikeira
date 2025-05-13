@@ -3,7 +3,7 @@
 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Matheus-Siqueira-the-sasster)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sikeiralves?igsh=MWQ1eDZ1cTlhdmh6eg==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sikeira_alves?igsh=MWQ1eDZ1cTlhdmh6eg==)
 
 [![Siqueira GitHub](https://github-readme-stats.vercel.app/api?username=MatheusSikeira&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
