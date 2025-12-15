@@ -1,6 +1,6 @@
 # Bem-vindo(a) a minha página do Github  
 
-![Nikola Tesla](tesla.jpeg)
+<img src="Tesla.jpeg">
 ## "Deixem que o futuro diga a verdade e avalie cada um de acordo com o seu trabalho e realizações" - Nikola Tesla
 
 ### Redes Sociais
