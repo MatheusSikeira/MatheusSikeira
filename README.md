@@ -1,6 +1,6 @@
 # Bem-vindo(a) a minha página do Github  
 
-<img src="tesla.jpeg" alt="Nicola Tesla" style="width:200px; height:200px;">
+<img src="tesla.jpeg" alt="Nicola Tesla" style="width:75px; height:75px;">
 ## "Deixem que o futuro diga a verdade e avalie cada um de acordo com o seu trabalho e realizações" - Nikola Tesla
 
 ### Redes Sociais
