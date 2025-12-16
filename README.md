@@ -1,7 +1,7 @@
 # Bem-vindo(a) a minha página do Github 💻😺
-<div class="tesla">
+
 ## <img src="tesla.jpeg" alt="Nicola Tesla" style="width:48px; height:48px;">  "Deixem que o futuro diga a verdade e avalie cada um de acordo com o seu trabalho e realizações" - Nikola Tesla
-</div>
+
 ### Redes Sociais:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-siqueira-65762b33b/)
 
@@ -68,7 +68,3 @@ __Desenvolvi__:<br>
 </ul>
 <br>
 "Acredito que o trabalho em equipe e resolução de erros nos fazem evoluir consideravelmente na area, assim podemos compartilhar conhecimento com outras pessoas e enxergar o que erramos em nossa trajetória."
-
-.tesla{
-background-color: #696969
-}
