@@ -2,18 +2,18 @@
 
 ## <img src="tesla.jpeg" alt="Nicola Tesla" style="width:48px; height:48px;">  "Deixem que o futuro diga a verdade e avalie cada um de acordo com o seu trabalho e realizações" - Nikola Tesla
 
-### Redes Sociais
+### Redes Sociais:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-siqueira-65762b33b/)
 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Matheus-Siqueira-the-sasster)
 
-### Status do Github
+### Status do Github:
 [![Siqueira GitHub](https://github-readme-stats.vercel.app/api?username=MatheusSikeira&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-### Linguagens utilizadas em meus projetos
+### Linguagens utilizadas em meus projetos:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSikeira&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias que utilizo e estudo
+### Tecnologias que utilizo e estudo:
 
 <div style="display: inline_block"><br>
 <img align="center" alt="HTML5" <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
