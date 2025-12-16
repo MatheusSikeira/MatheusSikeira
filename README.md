@@ -58,10 +58,13 @@
 
 ### Sobre mim
 __Desenvolvi__:<br>
-API's Rest com Nodejs;<br>
-Softwares Windows Forms com C#;<br>
-Aplicativos mobile com React-Native;<br>
-Aplicações Web com React;<br>
-Bancos de dados SQL e noSql.<br>
+
+<ul>
+<li>API's Rest com Nodejs;</li>
+<li>Softwares Windows Forms com C#;</li>
+<li>Aplicativos mobile com React-Native;</li>
+<li>Aplicações Web com React;</li>
+<li>Bancos de dados SQL e noSql.</li>
+</ul>
 <br>
 Acredito que o trabalho em equipe e resolução de erros nos fazem evoluir consideravelmente na area, assim podemos compartilhar conhecimento com outras pessoas e enxergar o que erramos em nossa trajetória.
