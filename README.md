@@ -67,4 +67,4 @@ __Desenvolvi__:<br>
 <li>Bancos de dados SQL e noSql.</li>
 </ul>
 <br>
-Acredito que o trabalho em equipe e resolução de erros nos fazem evoluir consideravelmente na area, assim podemos compartilhar conhecimento com outras pessoas e enxergar o que erramos em nossa trajetória.
+"Acredito que o trabalho em equipe e resolução de erros nos fazem evoluir consideravelmente na area, assim podemos compartilhar conhecimento com outras pessoas e enxergar o que erramos em nossa trajetória."
