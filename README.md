@@ -1,70 +1,117 @@
-# Bem-vindo(a) a minha página do Github 💻😺
+# 🌟 Bem-vindo(a) à minha página do GitHub! 💻✨
 
-## <img src="tesla.jpeg" alt="Nicola Tesla" style="width:48px; height:48px;">  "Deixem que o futuro diga a verdade e avalie cada um de acordo com o seu trabalho e realizações" - Nikola Tesla
+---
 
-### Redes Sociais:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-siqueira-65762b33b/)
+## 🧠 Inspiração
+<div align="center">
+  <img src="tesla.jpeg" alt="Nikola Tesla" width="60" height="60" style="border-radius: 50%; border: 3px solid #FFD700;">
+  <p><em>"Deixem que o futuro diga a verdade e avalie cada um de acordo com o seu trabalho e realizações"</em><br>
+  <strong>— Nikola Tesla ⚡</strong></p>
+</div>
 
+---
+
+## 🌐 Redes Sociais
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-siqueira-65762b33b/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Matheus-Siqueira-the-sasster)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusSikeira)
 
-### Status do Github:
-[![Siqueira GitHub](https://github-readme-stats.vercel.app/api?username=MatheusSikeira&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-### Linguagens utilizadas em meus projetos:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSikeira&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-### Tecnologias que utilizo e estudo:
-
-<div style="display: inline_block"><br>
-<img align="center" alt="HTML5" <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
-<div style="display: inline_block"><br>
-<img align="center" alt="CSS" <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+---
+
+## 📊 Status do GitHub
+
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusSikeira&show_icons=true&theme=dracula&count_private=true&hide_border=true)](https://github.com/MatheusSikeira)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSikeira&layout=compact&theme=dracula&hide_border=true)](https://github.com/MatheusSikeira)
+
 </div>
 
-<div style="display: inline_block"><br>
-<img align="center" alt="JavaScript" <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 💻 Linguagens de Programação
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=ff79c6)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 </div>
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Python" <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+### ⚛️ Frameworks & Bibliotecas
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 </div>
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Csharp" <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=ff79c6" />
+---
+
+## 🎯 Projetos & Habilidades
+
+### 🚀 Projetos Desenvolvidos
+
+- ✅ **APIs REST** com Node.js
+- ✅ **Aplicações Desktop** com Windows Forms (C#)
+- ✅ **Aplicativos Mobile** com React Native
+- ✅ **Aplicações Web** com React
+- ✅ **Bancos de Dados** SQL e NoSQL
+
+### 📚 Áreas de Estudo
+
+- 🔄 Desenvolvimento Full Stack
+- 📱 Desenvolvimento Mobile
+- 🌐 Desenvolvimento Web
+- 🗄️ Banco de Dados
+- ☁️ Cloud Computing
+
+---
+
+## 💭 Sobre Mim
+
+<div align="center">
+  
+> "Acredito que o trabalho em equipe e resolução de erros nos fazem evoluir consideravelmente na área, assim podemos compartilhar conhecimento com outras pessoas e enxergar o que erramos em nossa trajetória."
+
 </div>
 
-<div style="display: inline_block"><br>
-<img align="center" alt="SQL" <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+---
+
+## 📈 Estatísticas
+
+- 🎓 **Formação**: Estudante de Tecnologia
+- 🎯 **Objetivo**: Desenvolvedor Full Stack e Desenvolvedor de Jogos
+- 💡 **Interesses**: Tecnologia, Inovação, Aprendizado Contínuo
+- 🌱 **Aprendendo**: Novas tecnologias e melhores práticas
+
+---
+
+## 🤝 Vamos Conectar?
+
+<div align="center">
+  
+Se você gostou do meu trabalho ou quer conversar sobre tecnologia, sinta-se à vontade para entrar em contato! 📩
+
 </div>
 
-<div style="display: inline_block"><br>
-<img align="center" alt="React" <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+---
+
+<div align="center">
+  
+⭐️ Deixe uma estrela nos meus projetos se gostar! ⭐️
+
 </div>
-
-
-<div style="display: inline_block"><br>
-<img align="center" alt="React-Native" <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-</div>
-
-<div style="display: inline_block"><br>
-<img align="center" alt="Nodejs" <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
-</div>
-
-<div style="display: inline_block"><br>
-<img align="center" alt="Django" <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
-</div><br>
-
-### Sobre mim
-__Desenvolvi__:<br>
-
-<ul>
-<li>API's Rest com Nodejs;</li>
-<li>Softwares Windows Forms com C#;</li>
-<li>Aplicativos mobile com React-Native;</li>
-<li>Aplicações Web com React;</li>
-<li>Bancos de dados SQL e noSql.</li>
-</ul>
-<br>
-"Acredito que o trabalho em equipe e resolução de erros nos fazem evoluir consideravelmente na area, assim podemos compartilhar conhecimento com outras pessoas e enxergar o que erramos em nossa trajetória."
