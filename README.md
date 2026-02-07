@@ -28,7 +28,7 @@
 <div align="center">
 
 ### 📈 Seguidores
-[![seguidores](https://img.shields.io/github/followers/MatheusSikeira?for-the-badge)
+![seguidores](https://img.shields.io/github/followers/MatheusSikeira?style=plastic)
 
 ### 🔝 Linguagens Mais Usadas
 
