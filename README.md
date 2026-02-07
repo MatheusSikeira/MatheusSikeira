@@ -24,10 +24,21 @@
 ---
 
 ## 📊 Status do GitHub
-
 <div align="center">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSikeira)](https://github.com/anuraghazra/github-readme-stats)
+
+### 👨‍💻 Perfil
+[![GitHub seguidores](https://img.shields.io/github/followers/MatheusSiqueira?label=Seguidores&style=for-the-badge&color=bd93f9&logo=github&logoColor=white)](https://github.com/MatheusSiqueira)
+[![GitHub stars](https://img.shields.io/github/stars/MatheusSiqueira?label=Estrelas&style=for-the-badge&color=ffb86c&logo=github&logoColor=white)](https://github.com/MatheusSiqueira?tab=stars)
+[![GitHub forks](https://img.shields.io/github/forks/MatheusSiqueira?label=Forks&style=for-the-badge&color=8be9fd&logo=github&logoColor=white)](https://github.com/MatheusSiqueira?tab=forks)
+
+### 📈 Estatísticas
+[![Total de Repositórios](https://img.shields.io/github/repo-size/MatheusSiqueira?label=Repositórios&style=for-the-badge&color=50fa7b&logo=github&logoColor=white)](https://github.com/MatheusSiqueira?tab=repositories)
+[![Contribuições](https://img.shields.io/github/commit-activity/m/MatheusSiqueira?label=Contribuições&style=for-the-badge&color=ff79c6&logo=github&logoColor=white)](https://github.com/MatheusSiqueira)
+[![Issues Resolvidas](https://img.shields.io/github/issues-closed/MatheusSiqueira?label=Issues%20Resolvidas&style=for-the-badge&color=f1fa8c&logo=github&logoColor=black)](https://github.com/MatheusSiqueira/issues)
+
+### 🎨 Tema Dracula
+[![Tema](https://img.shields.io/badge/Tema-Dracula-purple?style=for-the-badge&logo=dracula&logoColor=white)](https://draculatheme.com/)
+[![Status](https://img.shields.io/badge/Status-Ativo-50fa7b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusSiqueira)
 
 </div>
 
