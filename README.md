@@ -27,14 +27,14 @@
 
 <div align="center">
 
-### 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusSikeira&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/MatheusSikeira)
+### 📈 Seguidores
+[![seguidores](https://img.shields.io/github/followers/MatheusSikeira?for-the-badge)
 
 ### 🔝 Linguagens Mais Usadas
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSikeira&layout=compact&theme=dracula&hide_border=true&langs_count=8)](https://github.com/MatheusSikeira)
+
 
 ### 🏆 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatheusSikeira&theme=dracula&hide_border=true)](https://github.com/MatheusSikeira)
+
 
 </div>
 ---
