@@ -27,8 +27,7 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusSikeira&show_icons=true&theme=dracula&count_private=true&hide_border=true)](https://github.com/MatheusSikeira)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSikeira&layout=compact&theme=dracula&hide_border=true)](https://github.com/MatheusSikeira)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSikeira)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
