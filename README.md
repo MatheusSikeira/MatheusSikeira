@@ -23,20 +23,20 @@
 
 ---
 
-## 📊 Status do GitHub
+## 📊 Estatísticas do GitHub
+
 <div align="center">
 
-### 👨‍💻 Perfil
-[![GitHub seguidores](https://img.shields.io/github/followers/MatheusSikeira?label=Seguidores&style=for-the-badge&color=bd93f9&logo=github&logoColor=white)](https://github.com/MatheusSikeira)
-[![GitHub stars](https://img.shields.io/github/stars/MatheusSikeira?label=Estrelas&style=for-the-badge&color=ffb86c&logo=github&logoColor=white)](https://github.com/MatheusSikeira?tab=stars)
-[![GitHub forks](https://img.shields.io/github/forks/MatheusSikeira?label=Forks&style=for-the-badge&color=8be9fd&logo=github&logoColor=white)](https://github.com/MatheusSikeira?tab=forks)
+### 📈 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusSikeira&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/MatheusSikeira)
 
-### 📈 Estatísticas
-[![Repositórios Públicos](https://img.shields.io/github/repositories/MatheusSikeira?label=Repositórios&style=for-the-badge&color=50fa7b&logo=github&logoColor=white)](https://github.com/MatheusSikeira?tab=repositories)
-[![Contribuições](https://img.shields.io/github/commit-activity/m/MatheusSikeira?label=Contribuições&style=for-the-badge&color=ff79c6&logo=github&logoColor=white)](https://github.com/MatheusSikeira)
-[![Issues Resolvidas](https://img.shields.io/github/issues-closed/MatheusSikeira?label=Issues%20Resolvidas&style=for-the-badge&color=f1fa8c&logo=github&logoColor=black)](https://github.com/MatheusSikeira/issues)
+### 🔝 Linguagens Mais Usadas
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSikeira&layout=compact&theme=dracula&hide_border=true&langs_count=8)](https://github.com/MatheusSikeira)
+
+### 🏆 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatheusSikeira&theme=dracula&hide_border=true)](https://github.com/MatheusSikeira)
+
 </div>
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
