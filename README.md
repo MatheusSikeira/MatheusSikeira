@@ -8,7 +8,7 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Matheus-Siqueira-the-sasster)
 
 ### Status do Github:
-[![Siqueira GitHub](https://github-readme-stats.vercel.app/api?username=Matheus Siqueira&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Siqueira GitHub](https://github-readme-stats.vercel.app/api?username=MatheusSikeira&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ### Linguagens utilizadas em meus projetos:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSikeira&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
