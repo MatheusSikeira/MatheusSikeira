@@ -32,14 +32,9 @@
 [![GitHub forks](https://img.shields.io/github/forks/MatheusSikeira?label=Forks&style=for-the-badge&color=8be9fd&logo=github&logoColor=white)](https://github.com/MatheusSikeira?tab=forks)
 
 ### 📈 Estatísticas
-[![Total de Repositórios](https://img.shields.io/github/repo-size/MatheusSiqueira?label=Repositórios&style=for-the-badge&color=50fa7b&logo=github&logoColor=white)](https://github.com/MatheusSikeira?tab=repositories)
-[![Contribuições](https://img.shields.io/github/commit-activity/m/MatheusSiqueira?label=Contribuições&style=for-the-badge&color=ff79c6&logo=github&logoColor=white)](https://github.com/MatheusSikeira)
-[![Issues Resolvidas](https://img.shields.io/github/issues-closed/MatheusSiqueira?label=Issues%20Resolvidas&style=for-the-badge&color=f1fa8c&logo=github&logoColor=black)](https://github.com/MatheusSikeira/issues)
-
-### 🎨 Tema Dracula
-[![Tema](https://img.shields.io/badge/Tema-Dracula-purple?style=for-the-badge&logo=dracula&logoColor=white)](https://draculatheme.com/)
-[![Status](https://img.shields.io/badge/Status-Ativo-50fa7b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusSiqueira)
-
+[![Repositórios Públicos](https://img.shields.io/github/repositories/MatheusSikeira?label=Repositórios&style=for-the-badge&color=50fa7b&logo=github&logoColor=white)](https://github.com/MatheusSikeira?tab=repositories)
+[![Contribuições](https://img.shields.io/github/commit-activity/m/MatheusSikeira?label=Contribuições&style=for-the-badge&color=ff79c6&logo=github&logoColor=white)](https://github.com/MatheusSikeira)
+[![Issues Resolvidas](https://img.shields.io/github/issues-closed/MatheusSikeira?label=Issues%20Resolvidas&style=for-the-badge&color=f1fa8c&logo=github&logoColor=black)](https://github.com/MatheusSikeira/issues)
 </div>
 
 ---
