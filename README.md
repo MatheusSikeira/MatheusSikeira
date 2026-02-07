@@ -28,8 +28,7 @@
 <div align="center">
 
 ### 📈 Seguidores
-![seguidores](https://img.shields.io/github/followers/MatheusSikeira?style=plastic&logo=github&label=Seguidores&labelColor=241f31)
-
+[![GitHub seguidores](https://img.shields.io/github/followers/MatheusSikeira?label=Seguidores&style=for-the-badge&logo=github&logoColor=white&color=bd93f9)](https://github.com/MatheusSikeira)
 ### 🔝 Linguagens Mais Usadas
 
 
