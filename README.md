@@ -31,7 +31,7 @@
 [![GitHub seguidores](https://img.shields.io/github/followers/MatheusSikeira?label=Seguidores&style=for-the-badge&logo=github&logoColor=white&color=bd93f9)](https://github.com/MatheusSikeira)
 
 ### 🔝 Linguagens
-![Linguagens](https://img.shields.io/github/languages/count/MatheusSikeira/meu-projeto?label=Linguagens&style=for-the-badge&logo=github&logoColor=white&labelColor=bd93f9&color=50fa7b)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSikeira&layout=compact&theme=dracula&hide_border=true&langs_count=8)](https://github.com/MatheusSikeira)
 
 ### 🏆 Streak Stats
 
