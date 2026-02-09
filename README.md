@@ -1,8 +1,8 @@
-# 🌟 Bem-vindo(a) à minha página do GitHub! 💻✨
-
 <a href="README_en.md">
   <img src="estados-unidos.png" alt="English" width="48" height="48" style="vertical-align: middle; margin-right: 8px;">
 </a>
+
+# 🌟 Bem-vindo(a) à minha página do GitHub! 💻✨
 
 ---
 
