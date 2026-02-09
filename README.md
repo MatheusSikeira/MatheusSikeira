@@ -27,7 +27,6 @@
 
 <div align="center">
 
-### 📈 Seguidores
 [![GitHub seguidores](https://img.shields.io/github/followers/MatheusSikeira?label=Seguidores&style=for-the-badge&logo=github&logoColor=white&color=bd93f9)](https://github.com/MatheusSikeira)
 
 </div>
