@@ -1,5 +1,8 @@
 # 🌟 Bem-vindo(a) à minha página do GitHub! 💻✨
 
+[![Português](https://img.shields.io/badge/Português-Brazil?style=for-the-badge&logo=brazil&logoColor=green)](README.md)
+[![English](https://img.shields.io/badge/English-UK?style=for-the-badge&logo=united-kingdom&logoColor=blue)](README_en.md)
+
 ---
 
 ## 🧠 Inspiração
