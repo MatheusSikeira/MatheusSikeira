@@ -1,7 +1,7 @@
 # 🌟 Bem-vindo(a) à minha página do GitHub! 💻✨
 
 [![Português](brasil.png)](README.md)
-[![English](<img src="estados-unidos.png")](README_en.md)
+[![English](estados-unidos.png)](README_en.md)
 
 ---
 
