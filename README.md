@@ -1,10 +1,10 @@
 # 🌟 Bem-vindo(a) à minha página do GitHub! 💻✨
 
 <a href="README.md">
-  <img src="brasil.png" alt="Português" width="24" height="24" style="vertical-align: middle; margin-right: 8px;">
+  <img src="brasil.png" alt="Português" width="48" height="48" style="vertical-align: middle; margin-right: 8px;">
 </a>
 <a href="README_en.md">
-  <img src="estados-unidos.png" alt="English" width="24" height="24" style="vertical-align: middle; margin-right: 8px;">
+  <img src="estados-unidos.png" alt="English" width="48" height="48" style="vertical-align: middle; margin-right: 8px;">
 </a>
 
 ---
