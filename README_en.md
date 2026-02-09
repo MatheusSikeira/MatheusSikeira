@@ -1,7 +1,8 @@
 # 🌟 Welcome to my GitHub page! 💻✨
 
-[![Português](https://img.shields.io/badge/Português-Brazil?style=for-the-badge&logo=brazil&logoColor=green)](README.md)
-[![English](https://img.shields.io/badge/English-UK?style=for-the-badge&logo=united-kingdom&logoColor=blue)](README_en.md)
+<a href="README.md">
+  <img src="brasil.png" alt="Português" width="48" height="48" style="vertical-align: middle; margin-right: 8px;">
+</a>
 
 ---
 
