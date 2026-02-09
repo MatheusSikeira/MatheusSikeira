@@ -4,7 +4,6 @@
 
 # 🌟 Bem-vindo(a) à minha página do GitHub! 💻✨
 
----
 
 ## 🧠 Inspiração
 <div align="center">
